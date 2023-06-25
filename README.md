@@ -8,6 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api/?username=benhrpr-i&count_private=true&theme=tokyonight&showicons=true)
+![](https://github-readme-stats.vercel.app/api/?username=benhrpr&count_private=true&theme=tokyonight&showicons=true)
 
 
