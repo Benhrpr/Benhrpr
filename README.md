@@ -10,4 +10,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benhrpr/benhrpr/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img alt="Campfire" src="https://raw.githubusercontent.com/Benhrpr/Benhrpr/main/campfire.gif" align=center>
